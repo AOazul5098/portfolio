@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(106, 122, 190);
+}
+h1{
+   margin-left: 100px;
+}
+#b{
+    display: inline-block;
+    background-color: rgb(110, 231, 73);
+}
+#c{
+    display: inline-block;
+background-color: rgb(24, 175, 112);
+}
+#d{
+    background-color: chocolate;
+}
